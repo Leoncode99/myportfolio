@@ -490,6 +490,10 @@ h3.my-profession {
     padding-bottom: 0;
 }
 
+.timeline-item p {
+    color: #d9d9f7;
+}
+
 .about .about-content .timeline .timeline-item::before {
     content: "";
     width: 1px;
