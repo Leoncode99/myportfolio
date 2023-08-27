@@ -856,6 +856,7 @@ h3.my-profession {
 .modal-content {
     position: relative;
     max-width: 350px;
+    right: 20px;
     margin: 20px;
     background: #000;
     border-radius: 5px;
