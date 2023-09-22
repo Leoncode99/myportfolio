@@ -826,7 +826,7 @@ h3.my-profession {
 .modal {
     position: fixed;
     top: 0;
-    left: 0;
+    left: 25px;
     width: 100%;
     height: 100vh;
     background: none;
